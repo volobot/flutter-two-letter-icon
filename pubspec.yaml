@@ -1,8 +1,8 @@
 name: two_letter_icon
 description: A new Flutter project.
 version: 0.0.1
-author:
-homepage:
+author: Volobot
+homepage: https://volobot.com
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
