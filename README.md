@@ -27,9 +27,6 @@ TwoLetterIcon("Some name");
 
 ### Example of usages
 
-You can insert the color picker into a **Dialog**
 
-<img title="Example main color in a dialog" src="https://github.com/Pyozer/color_picker/blob/master/demo/main_color_dialog.png?raw=true" width="400" />
-
-<img title="Example shade color in a dialog" src="https://github.com/Pyozer/color_picker/blob/master/demo/shade_color_dialog.png?raw=true" width="400" />
+<img title="Example main color in a dialog" src="https://github.com/volobot-admin/flutter-two-lette-icon/blob/master/Screenshot_1561281887.png?raw=true" width="400" />
 
