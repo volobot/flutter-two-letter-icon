@@ -29,5 +29,5 @@ TwoLetterIcon("Some name");
 ### Example of usages
 
 
-<img title="Example main color in a dialog" src="https://github.com/volobot-admin/flutter-two-lette-icon/blob/master/Screenshot_1561281887.png?raw=true" width="400" />
+<img title="Example main color in a dialog" src="https://github.com/volobot-admin/flutter-two-lette-icon/blob/master/screenshot-1562751840670.png?raw=true" width="400" />
 
