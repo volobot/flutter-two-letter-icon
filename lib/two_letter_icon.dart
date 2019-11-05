@@ -72,7 +72,7 @@ class TwoLetterIcon extends StatelessWidget {
           child: Text(
             getName(),
             style: TextStyle(
-                fontWeight: FontWeight.w400, color: Colors.white, fontSize: 28),
+                fontWeight: FontWeight.w400, color: Colors.white, fontSize: 22),
           ),
         ));
   }
