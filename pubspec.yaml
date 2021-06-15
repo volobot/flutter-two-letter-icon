@@ -1,11 +1,11 @@
 name: two_letter_icon
-description: A new Flutter project.
-version: 0.0.1
-author: Volobot <volobot@gmail.com>
-homepage: https://volobot.com
+description: Creates two letter icons from input text with a prefined colors. Now with null safety!
+version: 0.0.2
+author: Lars Werner <lars@werner.no>
+homepage: http://lars.werner.no
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
 
 dependencies:
   flutter:

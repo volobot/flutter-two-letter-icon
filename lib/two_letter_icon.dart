@@ -1,4 +1,5 @@
 library two_letter_icon;
+
 import 'package:flutter/material.dart';
 
 class TwoLetterIcon extends StatelessWidget {
@@ -8,7 +9,7 @@ class TwoLetterIcon extends StatelessWidget {
   final String name;
 
   String getName() {
-    if (name != null && name.length != 0) {
+    if (name.length != 0) {
       if (name.length > 2) {
         return name.substring(0, 2).toUpperCase();
       } else
