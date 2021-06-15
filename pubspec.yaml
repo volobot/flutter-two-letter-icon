@@ -1,5 +1,5 @@
 name: two_letter_icon
-description: Creates two letter icons from text given, null safety.
+description: Creates two letter icons from input text with a prefined colors. Now with null safety!
 version: 0.0.2
 author: Lars Werner <lars@werner.no>
 homepage: http://lars.werner.no
