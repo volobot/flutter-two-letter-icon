@@ -31,3 +31,6 @@ TwoLetterIcon("Some name");
 
 <img title="Example main color in a dialog" src="https://raw.githubusercontent.com/volobot-admin/flutter-two-letter-icon/master/screenshot-1562751840670.jpg?raw=true" width="400" />
 
+### Null safety
+Original author Volobot <volobot@gmail.com> seems to have left the project.
+I just added null safety to this great package.
